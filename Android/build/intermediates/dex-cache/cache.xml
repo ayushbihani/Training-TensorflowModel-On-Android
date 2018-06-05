@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ayushbihani/.android/build-cache/d38038a8624c24703d64dca77d957733c914b22d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ayushbihani/Documents/Personal/Tensorflow/Training-On-/Training-TensorflowModel-On-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b00d32ba65fc5fdce935915b23ad8f4d52dab9a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushbihani/Documents/Personal/Tensorflow/Training-On-/Training-TensorflowModel-On-Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/ayushbihani/Documents/Personal/Tensorflow/Training-On-/Training-TensorflowModel-On-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9b6c3c197a2d3fd45f6cefd86c062813366dfd10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushbihani/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/ayushbihani/Documents/Personal/Tensorflow/Training-On-/Training-TensorflowModel-On-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_3b95c79f204e3689cf1db0314e8cf850e3c70a6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushbihani/.android/build-cache/659f770421bca3e4a7d61b7f986cb01f36eb1662/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/ayushbihani/Documents/Personal/Tensorflow/Training-On-/Training-TensorflowModel-On-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ec2f4e7a9c7494fb7d771eb8f8f3fb2a85c42ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushbihani/.android/build-cache/e3fb65be8fac30f9f389d17a770ee99fab7a994d/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/ayushbihani/Documents/Personal/Tensorflow/Training-On-/Training-TensorflowModel-On-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_55c46c7b5b783cf887a0e33fd546aeb710b85f66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushbihani/Documents/Personal/Tensorflow/Training-On-/Training-TensorflowModel-On-Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8b699e8172942cbb8f9e49ac839b1bf36b4c720e">
+        <dex dex="/home/ayushbihani/Documents/Personal/Tensorflow/Training-On-/Training-TensorflowModel-On-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82147cb3277869a029592159fc133d226dcf9b38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushbihani/.android/build-cache/d38038a8624c24703d64dca77d957733c914b22d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ayushbihani/Documents/Personal/Tensorflow/Training-On-/Training-TensorflowModel-On-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b00d32ba65fc5fdce935915b23ad8f4d52dab9a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushbihani/.android/build-cache/0da3d9a5919206020ed532f5a6342232348cc0f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/ayushbihani/Documents/Personal/Tensorflow/Training-On-/Training-TensorflowModel-On-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c91b4759afc35cea1cfeb07c398bf5b186ce9585/classes.dex" />
+    </item>
+
+</items>

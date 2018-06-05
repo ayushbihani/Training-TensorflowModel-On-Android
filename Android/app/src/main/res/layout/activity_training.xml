@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/train"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/constantText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="168dp"
+        android:text="Train" />
+
+    <TextView
+        android:id="@+id/slope"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="51dp"
+        android:text="Slope :" />
+
+    <TextView
+        android:id="@+id/constant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/constantText"
+        android:layout_alignBottom="@+id/constantText"
+        android:layout_alignStart="@+id/slope"
+        android:text="Constant :" />
+
+    <EditText
+        android:id="@+id/slopText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="34dp"
+        android:layout_toEndOf="@+id/slope"
+        android:ems="10"
+        android:hint="Enter Slope"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/constantText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/slopText"
+        android:layout_below="@+id/slopText"
+        android:layout_marginTop="92dp"
+        android:ems="10"
+        android:hint="Enter Constant"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/slopText"
+        android:layout_marginTop="17dp"
+        android:text="Enter slope and constant to learn" />
+</RelativeLayout>
