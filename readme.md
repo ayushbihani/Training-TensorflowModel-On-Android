@@ -1,6 +1,6 @@
 # Training Tensorflow Model on Android
 
-Train your custom tensorflow model on android. This example serves as a representative example of how a custom model can be trained on Android. Eventually I will demonstrate it with a neural network.
+Train your custom tensorflow model on android. This example serves as a representative example of how a custom model can be trained on Android. Eventually I will try to demonstrate it with a neural network.
 
 ## Creating Tensorflow Model
 
